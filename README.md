@@ -19,16 +19,3 @@ For a different vehicle, the motor map, current estimation model, battery parame
 
 ---
 
-## Files
-
-```text
-lapsim_rfr/
-│
-├── build_motor_map.m
-├── lap_time_simulation_multilap_function.m
-├── postprocess_lap_simulation_terminal_only.m
-├── fsg_track_left_right_data.xlsx
-├── emrax228_hvcc_torque_map.mat
-├── lap_solver_log.mat
-├── lapsim.pdf
-└── .gitattributes
