@@ -12,7 +12,7 @@ The repository is currently configured around the RFR EV powertrain assumptions:
 
 - Motor: EMRAX 228 HV
 - Cell: Molicel P45B
-- Pack architecture: 128s3p
+- Pack architecture: 128s3p (editable)
 - Vehicle model: rear-driven Formula Student EV
 
 For a different vehicle, the motor map, current estimation model, battery parameters and vehicle constants should be updated before using the results for design decisions.
